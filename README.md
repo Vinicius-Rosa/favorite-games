@@ -1,30 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# This is my favorite games! 🎮
 
-## Getting Started
+Hi! How is it going? 😉
+This project just show my favorite games. But the way it does is what matters. 
+So it's an interesting project I learned some cool stuffs like:
+* NextJs
+* Google Spreadsheets API
 
-First, run the development server:
+I didn't know anything about thats technologies. However, I want to thank the [@omariosouto]([https://github.com/omariosouto](https://github.com/omariosouto)) to teach me that. 😂
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+You can see the spreedsheat right here -> [My Favorite Games](https://docs.google.com/spreadsheets/d/1tjZ-SilsyBJ8hijZsLtIvtSb418FCIHCMV10Mur73Bo/edit?usp=sharing)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## How to run
 
-## Learn More
+First, clone the repo:
+> git clone https://github.com/Vinicius-Rosa/favorite-games.git
 
-To learn more about Next.js, take a look at the following resources:
+Then, navigate to the folder:
+> cd favorite-games
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Install the dependencies:
+> yarn install
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Start the project:
+> yarn dev
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ **Enjoy!! 😊**
