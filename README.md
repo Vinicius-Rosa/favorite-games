@@ -1,6 +1,7 @@
 # This is my favorite games! 🎮
 
 Hi! How is it going? 😉
+
 This project just show my favorite games. But the way it does is what matters. 
 So it's an interesting project I learned some cool stuffs like:
 * NextJs
